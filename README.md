@@ -4,8 +4,8 @@
 
 ## 效果展示
 
-<!-- 在下面添加截图 -->
-![demo](./demo.png)
+<img width="1470" height="836" alt="PixPin_2026-05-05_11-21-26" src="https://github.com/user-attachments/assets/42db8dc3-b1af-4bea-aa3f-3bb74af0e8cd" />
+
 
 > 示例站点：https://heran11011.github.io/heran-site/
 
